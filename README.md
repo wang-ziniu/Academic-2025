@@ -1,5 +1,5 @@
 # Academic-2025
-# Wang Ziniu's path of AI learning
+# Wzn's path of AI learning
 
 <div align="center">
     <br>
